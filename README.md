@@ -22,3 +22,7 @@ I will then create a new lookup tables for the CIS for
 
 ![Cis](https://github.com/user-attachments/assets/9615e9a1-1caf-49df-b9c5-5f43e1bd813d)
 ![Cis](https://github.com/user-attachments/assets/4029f7e2-267b-40c3-ae72-291ddd0b5d3d)
+</br>
+I will now create new lookup definition
+</br>
+![Cis](https://github.com/user-attachments/assets/55112c35-437f-4f35-8566-dc36a348bb42)
