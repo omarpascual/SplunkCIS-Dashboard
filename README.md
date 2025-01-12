@@ -26,3 +26,8 @@ I will then create a new lookup tables for the CIS for
 I will now create new lookup definition
 </br>
 ![Cis](https://github.com/user-attachments/assets/55112c35-437f-4f35-8566-dc36a348bb42)
+</br>
+Next I will ingest some data! 
+</br>
+Import data via splunk home -> Add Data -> Upload -> Select File -> Select thge Assessment files
+</br>
